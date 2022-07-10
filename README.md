@@ -1,2 +1,2 @@
 # golang
-My Golang Course 
+SatVeer Singh Golang Course
